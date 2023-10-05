@@ -13,7 +13,7 @@ This repository contains a Python script that serves as a multi-purpose toolbox,
 
 1. Clone the repository to your local machine:
    ```
-   git clone 
+   git clone https://github.com/vishvratnass27/python_menu_program.git
    ```
 
 2. Install the required Python libraries if you haven't already:
